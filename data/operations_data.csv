@@ -1,0 +1,7 @@
+process_id,cycle_time_minutes,defects,cost_usd
+P1,55,2,120
+P2,70,5,180
+P3,45,1,100
+P4,80,6,210
+P5,60,3,150
+P6,50,2,130
