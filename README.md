@@ -31,3 +31,8 @@ This project was developed as part of my learning journey in:
 - Operations Analysis
 - Six Sigma Fundamentals
 - Engineering Management
+## Sample Visualizations
+
+![Cycle Time Analysis](images/cycle_time.png)
+![Defect Trend Analysis](images/defect_trend.png)
+![Cost vs Defects](images/cost_defects.png)
